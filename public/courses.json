@@ -1,0 +1,44 @@
+[
+   {
+      "id": 1,
+      "name": "Graphic Design",
+      "img": "https://i.ibb.co/qrNjR58/graphic-designing.jpg",
+      "price": "500$",
+      "duration": "3 months"
+   },
+   {
+      "id": 2,
+      "name": "Web Development",
+      "img": "https://i.ibb.co/4FfHQpm/Web-Development-Trends.jpg",
+      "price": "1000$",
+      "duration": "8 months"
+   },
+   {
+      "id": 3,
+      "name": "Digital Marketing",
+      "img": "https://i.ibb.co/wcWWq1c/Digital-Marketing.png",
+      "price": "400$",
+      "duration": "2 months"
+   },
+   {
+      "id": 4,
+      "name": "Ethical Hacking",
+      "img": "https://i.ibb.co/wSdSX8j/Untitled-1-2-scaled-e1622472165118.jpg",
+      "price": "550$",
+      "duration": "3.5 months"
+   },
+   {
+      "id": 5,
+      "name": "SEO",
+      "img": "https://i.ibb.co/471xw60/search-engine-optimization-ireland-1024x681.jpg",
+      "price": "600$",
+      "duration": "4 months"
+   },
+   {
+      "id": 6,
+      "name": "Affiliate Marketing",
+      "img": "https://i.ibb.co/p49VHZ5/A-Step-by-Step-Guide-to-Affiliate-Marketing.jpg",
+      "price": "700$",
+      "duration": "5 months"
+   }
+]

@@ -1,0 +1,9 @@
+.banner {
+   background-image: linear-gradient(#b613e7, #550251);
+   height: 100vh;
+   width: 100hv;
+}
+
+.bannerImg {
+   width: 100%;
+}
