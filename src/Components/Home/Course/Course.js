@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 import './Course.css';
 
 const Course = props => {
@@ -11,9 +12,9 @@ const Course = props => {
             <h5>Duration: {course.duration}</h5>
             <h4>Course Price: {course.price}</h4>
          </div>
-         <button type="button" class="btn btn-danger">
-            Course Details
-         </button>
+         <Link to={`/details/${course?.id}`}>
+            <button className="btn btn-primary my-3">Course Details</button>
+         </Link>
       </div>
    );
 };

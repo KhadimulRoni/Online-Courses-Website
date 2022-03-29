@@ -6,7 +6,7 @@
 .logo {
    align-items: flex-start;
 }
-.logo img {
+.logo {
    width: 120px;
    height: 80px;
    border-radius: 10px;

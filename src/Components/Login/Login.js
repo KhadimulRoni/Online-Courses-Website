@@ -2,7 +2,7 @@ import Button from '@restart/ui/esm/Button';
 import React, { useState } from 'react';
 import { Col, Form, Row } from 'react-bootstrap';
 import { Link } from 'react-router-dom';
-import useAuth from '../../../hooks/useAuth';
+import useAuth from '../../hooks/useAuth';
 import { getAuth, createUserWithEmailAndPassword } from 'firebase/auth';
 import initializeAuthentication from '../Firebase/firebase.init';
 

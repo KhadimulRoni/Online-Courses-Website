@@ -6,7 +6,7 @@ import {
    onAuthStateChanged,
 } from 'firebase/auth';
 import { useEffect, useState } from 'react';
-import initializeAuthentication from '../components/Home/Firebase/firebase.init';
+import initializeAuthentication from '../Components/Firebase/firebase.init';
 
 initializeAuthentication();
 
