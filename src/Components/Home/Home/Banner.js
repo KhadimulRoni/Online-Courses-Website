@@ -6,7 +6,7 @@ const Banner = () => {
    return (
       <div className="banner row m-0">
          <div className=" col-lg-6">
-            <h1>Online Courses</h1>
+            <h1 className="bannerText">Improve Your Skills With Us</h1>
          </div>
 
          <div className="col-lg-6">

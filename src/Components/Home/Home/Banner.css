@@ -1,7 +1,13 @@
 .banner {
    background-image: linear-gradient(#b613e7, #550251);
+   align-items: center;
+   display: flex;
    height: 100vh;
    width: 100hv;
+}
+.bannerText {
+   font-size: 70px;
+   color: aquamarine;
 }
 
 .bannerImg {
