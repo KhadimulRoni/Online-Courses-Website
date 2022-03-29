@@ -1,0 +1,23 @@
+.aboutUs {
+   /* border: 1px solid red; */
+   background-blend-mode: overlay;
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-position: center;
+   justify-content: center;
+   align-items: center;
+   overflow: hidden;
+}
+.logo2 {
+   padding: 0 20%;
+}
+.logo2 img {
+   width: 250px;
+   height: 200px;
+   border-radius: 20px;
+}
+.aboutTitle {
+   padding: 30px;
+   font-size: 50px;
+   font-weight: 800;
+}

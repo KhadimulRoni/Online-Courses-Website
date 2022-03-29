@@ -9,7 +9,7 @@ const Course = props => {
          <div className="p-2">
             <h2>{course.name}</h2>
             <h5>Duration: {course.duration}</h5>
-            <h3>Price: {course.price}</h3>
+            <h4>Course Price: {course.price}</h4>
          </div>
          <button type="button" class="btn btn-danger">
             Course Details

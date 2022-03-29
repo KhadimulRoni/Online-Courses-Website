@@ -9,7 +9,7 @@ const Footer = () => {
             <div className="py-3 mt-5">
                <div className="row m-0">
                   <div className="col-md-6 text-white p-3">
-                     <img src={logo} alt="" />
+                     <img className="logoF" src={logo} alt="" />
                      <p className="py-3 px-5">
                         A good online course provides information such as
                         readings or lecture videos, but also involves
@@ -21,7 +21,7 @@ const Footer = () => {
                   </div>
 
                   <div className="col-md-6 text-white p-3">
-                     <h2>Contacts</h2>
+                     <h2>Contact Us</h2>
                      <h5>Call Now</h5>
                      <h6>0 (800) 716 95 25</h6>
                      <h5>Send Mail</h5>
