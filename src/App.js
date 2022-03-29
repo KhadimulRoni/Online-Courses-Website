@@ -6,6 +6,7 @@ import Footer from './Components/Shared/Footer/Footer';
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 import Courses from './Components/Home/Courses/Courses';
 import AboutUs from './Components/AboutUs/AboutUs';
+import NotFound from './Components/NotFound/NotFound';
 
 function App() {
    return (
@@ -24,6 +25,9 @@ function App() {
                </Route>
                <Route path="/about">
                   <AboutUs></AboutUs>
+               </Route>
+               <Route path="*">
+                  <NotFound></NotFound>
                </Route>
             </Switch>
             <Footer></Footer>
